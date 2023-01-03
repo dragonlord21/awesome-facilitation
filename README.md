@@ -2,12 +2,17 @@
 
 A curated list of tool, ideas and ressources for facilitators and moderators.
 
-# Content
-- [Articel](#articel)
-- [Concepts](#concepts)
-- [Group Process Methodologies](#group-process-methodologies)
-- [Icebreaker](#icebreaker)
-- [Software-Tools](#software-tools)
+## Content
+
+- [Awesome facilitation](#awesome-facilitation)
+  - [Content](#content)
+  - [Articel](#articel)
+  - [Concepts](#concepts)
+  - [Group Process Methodologies](#group-process-methodologies)
+  - [Icebreaker](#icebreaker)
+  - [Software Tools](#software-tools)
+  - [Contributing](#contributing)
+  - [Footnotes](#footnotes)
 
 ## Articel
 
@@ -37,11 +42,10 @@ Links to Software Tools that are essential or helpfull for on- or offline facili
 
 - [Miro](https://miro.com) - Awesome whiteboard tool for collaborative team work.
 
-
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Footnotes
 
-List is in an early stage of collection and 
+List is in an early stage of collection and will change (hopefully) recently.
