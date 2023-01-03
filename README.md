@@ -40,7 +40,7 @@ Links to Software Tools that are essential or helpfull for on- or offline facili
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](contributing.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Footnotes
 
