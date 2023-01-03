@@ -26,7 +26,7 @@ Theoretical concepts about facilitation, moderation or groupwork processes.
 
 - [Mental modells (german)](https://weltklugheit.com/) - A very short and catchy summary about mental models from [psychology](https://weltklugheit.com/modelle/psychologie.html), [systemic thinking](https://weltklugheit.com/modelle/systeme.html), [general thinking](https://weltklugheit.com/modelle/denken.html) ...
 - [Bohm Dialogue](http://www.david-bohm.net/dialogue/) - David Bohm's concept for action dialog.
-- [Theory U](https://www.u-school.org/aboutus/theory-u) - 
+- [Theory U](https://www.u-school.org/aboutus/theory-u) - Theory U about how change works, very practical.
 
 ## Group Process Methodologies
 
