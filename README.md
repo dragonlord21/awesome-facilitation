@@ -20,6 +20,8 @@ A curated list of tool, ideas and ressources for facilitators and moderators.
 - [Facilitation Style](https://medium.com/user-experience-design-1/facilitation-whats-your-style-4c9c480bd2d) - An articel to see what is your main style in facilitation
 - [Facilitator guide to participatory decision making](http://www.storypikes.com/workshops/PDFs/Facilitators%20Guide%20to%20Participation%20by%20Sam%20Kaner%20with%20Lenny%20Lind-Catherine%20Toldi-Sarah%20Fisk%20and%20Duane%20Berger-2007.pdf) - PDF guide to participatory decision making.
 
+[↥](#content)
+
 ## Concepts
 
 Theoretical concepts about facilitation, moderation or groupwork processes.
@@ -27,6 +29,8 @@ Theoretical concepts about facilitation, moderation or groupwork processes.
 - [Mental modells (german)](https://weltklugheit.com/) - A very short and catchy summary about mental models from [psychology](https://weltklugheit.com/modelle/psychologie.html), [systemic thinking](https://weltklugheit.com/modelle/systeme.html), [general thinking](https://weltklugheit.com/modelle/denken.html) ...
 - [Bohm Dialogue](http://www.david-bohm.net/dialogue/) - David Bohm's concept for action dialog.
 - [Theory U](https://www.u-school.org/aboutus/theory-u) - Theory U about how change works, very practical.
+
+[↥](#content)
 
 ## Group Process Methodologies
 
@@ -38,6 +42,8 @@ Methodologies to structur meetings or workshops with participant including chara
 - [Art of Hosting](https://artofhosting.org/what-is-aoh/) - Art of Hosting blends a suite of powerful conversational processes to invite people to step in and take charge of the challenges facing them.
 - [Conversation Cafe](https://conversationcafe.org/the-complete-hosting-manual/) -  It is a one-and-a-half hour hosted conversation, held in a public setting like a café, where anyone is welcome to join.
 - [Barcamp Method](http://barcamp.org/w/page/404135/OrganizeALocalBarCamp) - Pocket Guide to organize a barcamp.
+
+[↥](#content)
 
 ## Collaboration Methods
 
@@ -52,12 +58,16 @@ Single Methods, Colletions, Icebreaker.
 - [Canvas Collection](https://masterfacilitator.com/canvas-collection/) - Curated list for all sort of canvases for all topics.
 - [Change Toolbox](https://www.toolboxtoolbox.com/) - A curated list of the best business, design, and organisational change toolboxes built by some of the most influential companies, institutions and thinkers.
 
+[↥](#content)
+
 ## Software Tools
 
 Links to Software Tools that are essential or helpfull for on- or offline facilitation.
 
 - [Miro](https://miro.com) - Awesome whiteboard tool for collaborative team work (*paid).
 - [Excalidraw](https://excalidraw.com/) - Basic and fast online whiteboard without any hazle.
+
+[↥](#content)
 
 ## Contributing
 
@@ -66,3 +76,5 @@ Your contributions are always welcome! Please take a look at the [contribution g
 ## Footnotes
 
 List is in an early stage of collection and will change (hopefully) recently.
+
+[↥](#content)
